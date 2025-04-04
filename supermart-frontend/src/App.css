@@ -1,0 +1,45 @@
+.app-container {
+  width: 400px;
+  margin: 60px auto;
+  padding: 24px;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  font-family: sans-serif;
+  background-color: #fff;
+}
+
+.input-box {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+.checkout-btn {
+  padding: 10px 20px;
+  background-color: #007bff;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.checkout-btn:hover {
+  background-color: #0056b3;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
+
+.result-box {
+  margin-top: 20px;
+  padding: 12px;
+  border: 1px solid #eee;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
