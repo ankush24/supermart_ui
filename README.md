@@ -1,10 +1,10 @@
 
 ---
 
-### 📄 `README.md` (Frontend - React)
+### `README.md` (Frontend - React)
 
 ```markdown
-# 🛍️ SuperMart Frontend
+# SuperMart Frontend
 
 A React-based frontend for scanning products, managing cart, applying discounts, and checking out — all integrated with the Django REST API backend.
 
@@ -18,7 +18,7 @@ A React-based frontend for scanning products, managing cart, applying discounts,
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repo
 
